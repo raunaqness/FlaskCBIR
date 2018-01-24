@@ -2,7 +2,7 @@
 
 A Content Based Image Retrieval System made with Flask and OpenCV.
 
-![alt text](https://i.imgur.com/6MoW4ry.jpg)
+![alt text](https://i.imgur.com/OgjxXez.jpg)
 
 Technologies used : Flask and OpenCV.
 
